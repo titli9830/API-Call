@@ -4,10 +4,6 @@
 
 <img src="screenshots/Mobile.PNG" height="350">
 
-### Tablet View:
-
-<img src="screenshots/Tablet.PNG" width="400">
-
 ### Desktop View:
 
 <img src="screenshots/Desktop.PNG" width="400">
